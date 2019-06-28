@@ -1,6 +1,6 @@
 # CloudFlare Change Waf Rule Actions
 
-This project is meant to help you avoid the pesky task of turning the 350+ cloudflare rules to simulate in your WAF, in order to build a baseline of potential false positives your application may trigger.
+This project is meant to help you avoid the pesky task of turning the 350+ cloudflare rules to simulate (or whatever other mode you desire) in your WAF, in order to build a baseline of potential false positives your application may trigger or switch back to default once you've established your baseline.
 
 ## Getting Started
 
